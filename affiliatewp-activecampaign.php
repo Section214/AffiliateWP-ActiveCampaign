@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     AffiliateWP - ActiveCampaign
- * Plugin URI:
+ * Plugin URI:      https://wordpress.org/plugins/affiliatewp-activecampaign/
  * Description:     Easily add ActiveCampaign integration to AffiliateWP
  * Version:         1.0.0
  * Author:          Daniel J Griffiths
