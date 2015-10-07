@@ -1,4 +1,4 @@
-=== InvoicePress ===
+=== AffiliateWP - ActiveCampaign ===
 Plugin URI: https://wordpress.org/plugins/affiliatewp-activecampaign/
 Author URI: https://section214.com
 Contributors: section214
