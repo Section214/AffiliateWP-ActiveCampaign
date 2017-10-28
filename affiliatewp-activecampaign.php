@@ -3,13 +3,13 @@
  * Plugin Name:     AffiliateWP - ActiveCampaign
  * Plugin URI:      https://wordpress.org/plugins/affiliatewp-activecampaign/
  * Description:     Easily add ActiveCampaign integration to AffiliateWP
- * Version:         1.0.0
+ * Version:         1.0.1
  * Author:          Daniel J Griffiths
- * Author URI:      https://section214.com
+ * Author URI:      https://evertiro.com
  * Text Domain:     affiliatewp-activecampaign
  *
  * @package         AffiliateWP\ActiveCampaign
- * @author          Daniel J Griffiths <dgriffiths@section214.com>
+ * @author          Daniel J Griffiths <dgriffiths@evertiro.com>
  */
 
 
